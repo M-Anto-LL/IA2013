@@ -16,5 +16,6 @@ public class Ia2013 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola mundo");
+        System.out.println("prueba2");
     }
 }
